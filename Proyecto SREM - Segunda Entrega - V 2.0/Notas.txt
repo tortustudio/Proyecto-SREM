@@ -1,0 +1,21 @@
+Usuarios ya creados en la base de datos:
+
+Administrativos:
+Ci: 56191043
+Contraseña: facu123
+
+Ci: 98752645
+Contraseña: chilena1
+
+Ci: 55774272
+Contraseña: tortu1234
+
+Administrador:
+Ci: 55319765
+Contraseña: 12345
+
+Ci: 23145678
+Contraseña: marta987
+
+Cabe aclarar que si se agrega un empleado desde la página el mismo podrá ingresar
+desde el login.

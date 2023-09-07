@@ -1,0 +1,115 @@
+body {
+    background-color: #1E3E5B;
+    font-family: Verdana;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+.img1 {
+    width: 30px;
+    height: 30px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+
+.contenedor {
+    max-width: 1000px;
+    margin: 10px auto;
+    color: #000000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card1 {
+    padding-top: 0%;
+    margin: -25px 30px 50px 30px;
+    width: 60%;
+    height: 500px;
+    background-color: #ACACAD;
+    color: #000000;
+    text-indent: 30px;
+    border-radius: 10%;
+}
+
+.txt1 {
+    font-family: Verdana;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.txt2 {
+    margin-bottom: -45px;
+    font-family: Verdana;
+    margin-top: -32px;
+    margin-left: 168px;
+}
+
+.txt {
+    margin-bottom: -41px;
+    font-family: Verdana;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.btn1 {
+    margin-left: 25%;
+    top: 20px;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #474747;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    padding: 0 50px;
+    border-radius: 10px;
+}
+
+#input1 {
+    height: 10px;
+    width: 70%;
+    border-radius: 20px;
+        margin-left: 5%;
+    padding: 15px;
+}
+
+#input2 {
+    height: 10px;
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 5%;
+    padding: 15px;
+}
+
+#input {
+    height: 10px;
+    width: 400px;
+    border-radius: 20px;
+    left: 0px;
+    padding: 15px;
+}
+
+.error1{
+    color: #cf4646;
+    text-align: center;
+    padding: 0px;
+    margin-left: 40px;
+    text-indent: 0px;
+}
+
+.tortuStudio{
+    width: 278px;
+    height: 42px;
+    background-color: rgba(128, 128, 128, 0.5);
+    border-radius: 20px 20px 0 0px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-left: 10px; /* Puedes ajustar el margen según tus preferencias */
+    padding: 0px;
+}
+
